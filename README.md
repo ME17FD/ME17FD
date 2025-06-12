@@ -9,15 +9,19 @@ Here are the technologies and tools I work with:
 
 ### Programming Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" />
   <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" />
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
 </div>
 
 ### Frameworks & Libraries
 <div>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
   <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" />
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" />
   <img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" />
@@ -39,6 +43,14 @@ Here are the technologies and tools I work with:
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
 </div>
+
+### 🧪 Testing
+<div>
+  <img src="https://skillicons.dev/icons?i=junit" alt="JUnit" title="JUnit" />
+  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" />
+</div>
+
+---
 
 ## Contact
 
