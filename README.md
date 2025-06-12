@@ -44,11 +44,6 @@ Here are the technologies and tools I work with:
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
 </div>
 
-### 🧪 Testing
-<div>
-  <img src="https://skillicons.dev/icons?i=junit" alt="JUnit" title="JUnit" />
-  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" />
-</div>
 
 ---
 
