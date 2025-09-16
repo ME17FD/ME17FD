@@ -31,9 +31,9 @@ Here are the technologies and tools I work with:
 
 ### Databases
 <div>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite3" title="SQLite3" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" title="Oracle" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
 </div>
