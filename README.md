@@ -1,55 +1,31 @@
-# ME17FD's GitHub Page
+# Mehdi Faddak
 
-Welcome to my GitHub page! I'm a passionate developer with expertise in a wide range of technologies. I enjoy working on projects that challenge me to learn new skills and solve real-world problems.
-Feel free to explore, contribute, or reach out if you have any questions.
+**Systems & Database Administrator** · Casablanca, Morocco
+MSc Cybersecurity & Cyberdefense student at Université Hassan II
 
-## Skills
+I run production PostgreSQL, harden Linux servers, and build detection and monitoring around them. My work sits where databases, infrastructure, and security meet, and it's moving toward DevSecOps.
 
-Here are the technologies and tools I work with:
+**Portfolio:** [profile.me-fd.com](https://profile.me-fd.com) · **LinkedIn:** [in/mehdi-faddak](https://www.linkedin.com/in/mehdi-faddak/) · **Email:** faddak.mehdi@gmail.com
 
-### Programming Languages
-<div>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
-</div>
+## What I work on
 
-### Frameworks & Libraries
-<div>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" title="Spring Boot" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" />
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" title=".NET" />
-  <img src="https://skillicons.dev/icons?i=maven" alt="Maven" title="Maven" />
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Tomcat" title="Tomcat" />
-  <img src="https://img.shields.io/badge/EJB-007396?style=for-the-badge&logo=java&logoColor=white" alt="EJB" title="EJB" />...
-</div>
+- **Databases:** PostgreSQL and Oracle. Migrations, version upgrades, high availability, query optimization, data pipelines, and backup and restore.
+- **Security:** Linux hardening, Wazuh (SIEM/XDR), Attack Surface Management, CVE remediation, Active Directory and SSH access management, and internal audits.
+- **Infrastructure:** Proxmox VE and Proxmox Backup Server (20+ VMs), physical servers and VPSs, VLANs, and Zabbix monitoring and alerting.
+- **DevSecOps:** Jenkins, GitHub Actions, GitLab, GitHub Enterprise, Docker, Kubernetes, Nexus, and SonarQube.
+- **Observability:** ELK, APM, Zabbix, and Telegram alerting.
 
-### Databases
-<div>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite3" title="SQLite3" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" title="Oracle" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQL Server" title="Microsoft SQL Server" />
-</div>
+## Homelab
 
-### Tools & Platforms
-<div>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
-</div>
+I run my own two-node infrastructure behind Cloudflare and Nginx. It hosts about 30 containers, PostgreSQL 18 with nightly parallel backups, and Wazuh and Zabbix for detection and monitoring, with alerts going to Telegram. Uptime is checked externally. There's an interactive write-up at [profile.me-fd.com](https://profile.me-fd.com/#infrastructure).
 
+## Toolbox
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,linux,ubuntu,docker,kubernetes,jenkins,githubactions,gitlab,nginx,cloudflare,bash,python,java,spring&perline=14" alt="PostgreSQL, Linux, Ubuntu, Docker, Kubernetes, Jenkins, GitHub Actions, GitLab, Nginx, Cloudflare, Bash, Python, Java, Spring" />
+</p>
 
-## Contact
+## Certifications
 
-Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
-
-- **Email:** faddak.mehdi@gmail.com
-- **LinkedIn:** [Mehdi FADDAK](https://www.linkedin.com/in/mehdi-faddak-041430250/)
+- Agentic AI Certified Foundations Associate, Oracle (2026)
+- Fundamentals of Predictive Project Management, PMI (2026)
